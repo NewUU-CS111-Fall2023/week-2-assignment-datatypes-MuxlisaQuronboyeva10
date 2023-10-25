@@ -18,6 +18,8 @@ int main() {
     ly.Randomness();
     // call for task 2
     std::cout << "Task 3" << std::endl;
+    Dividing ly;
+    ly.Divider();
     // call for task 3
     return 0;
 }
