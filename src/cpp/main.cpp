@@ -20,6 +20,8 @@ int main() {
     std::cout << "Task 3" << std::endl;
     // call for task 3
     std::cout << "Task 4" << std::endl;
+    Dividing ly;
+    ly.Divider();
     // call for task 4
     std::cout << "Task 5" << std::endl;
     // call for task 5
